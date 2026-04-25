@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-**Farnoexe/Farnoexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) app# Hi, I'm Yannick 👋
+# Hi, I'm Yannick 👋
 
 Data Analyst & Data Engineer based in Taipei, Taiwan.
 
-I build end-to-end data pipelines, analytics workflows, and BI dashboards 
-using Python, SQL, AWS, and Power BI. My focus is on data quality, pipeline 
+I build end-to-end data pipelines, analytics workflows, and BI dashboards
+using Python, SQL, AWS, and Power BI. My focus is on data quality, pipeline
 reliability, and turning raw multi-source data into clear, actionable insights.
 
 ---
@@ -34,16 +31,4 @@ reliability, and turning raw multi-source data into clear, actionable insights.
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/yannick-john-333045238](https://www.linkedin.com/in/yannick-john-333045238/)
-- Email: yannicksjohn@gmail.comears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: yannicksjohn@gmail.com
